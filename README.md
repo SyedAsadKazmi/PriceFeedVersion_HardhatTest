@@ -7,3 +7,7 @@ Execute this command to run the test:
 ```shell
 npx hardhat test
 ```
+
+Terminal Output:
+
+![1713084510293](image/README/1713084510293.png)
